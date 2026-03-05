@@ -1,0 +1,51 @@
+HTTrack3.49-6 launched on Thu, 05 Mar 2026 21:46:48 at https://relearning.tech/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://relearning.tech/ -O "/home/cusniwtt/Documents/websites/relearning-website" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:47:52	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://relearning.tech/)
+21:47:53	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://relearning.tech/)
+21:48:43	Warning: 	Moved Permanently for https://relearning.tech/?p=142
+21:48:43	Warning: 	File has moved from https://relearning.tech/?p=142 to https://relearning.tech/about-us/
+21:48:43	Warning: 	Moved Permanently for https://relearning.tech/?p=319
+21:48:43	Warning: 	File has moved from https://relearning.tech/?p=319 to https://relearning.tech/product/
+21:48:43	Warning: 	Moved Permanently for https://relearning.tech/?p=146
+21:48:43	Warning: 	File has moved from https://relearning.tech/?p=146 to https://relearning.tech/blog/
+21:48:43	Warning: 	Moved Permanently for https://relearning.tech/?p=148
+21:48:43	Warning: 	File has moved from https://relearning.tech/?p=148 to https://relearning.tech/contact/
+21:48:43	Warning: 	Moved Permanently for https://relearning.tech/?p=506
+21:48:43	Warning: 	File has moved from https://relearning.tech/?p=506 to https://relearning.tech/donate/
+21:48:43	Warning: 	HTML file (284271 bytes) retransferred due to lack of cache: https://relearning.tech/wp-json/
+21:48:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/12
+21:48:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelearning.tech%2Fabout-us%2F
+21:48:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/142
+21:48:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/319
+21:48:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelearning.tech%2Fproduct%2F
+21:48:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelearning.tech%2Fblog%2F
+21:49:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/146
+21:49:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/148
+21:49:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelearning.tech%2Fcontact%2F
+21:49:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/wp/v2/pages/506
+21:49:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://relearning.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frelearning.tech%2Fdonate%2F
+21:52:36	Warning: 	HTML file (159700 bytes) retransferred due to lack of cache: https://relearning.tech/about-us/
+21:52:44	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: https://relearning.tech/?p=142
+21:52:45	Warning: 	Moved Permanently for https://relearning.tech/?p=142
+21:52:45	Warning: 	File has moved from https://relearning.tech/?p=142 to https://relearning.tech/about-us/
+21:52:46	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://relearning.tech/?p=319
+21:52:46	Warning: 	Moved Permanently for https://relearning.tech/?p=319
+21:52:46	Warning: 	File has moved from https://relearning.tech/?p=319 to https://relearning.tech/product/
+21:52:48	Warning: 	HTML file (757 bytes) retransferred due to lack of cache: https://relearning.tech/?p=146
+21:52:49	Warning: 	Moved Permanently for https://relearning.tech/?p=146
+21:52:49	Warning: 	File has moved from https://relearning.tech/?p=146 to https://relearning.tech/blog/
+21:52:50	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://relearning.tech/?p=148
+21:52:51	Warning: 	Moved Permanently for https://relearning.tech/?p=148
+21:52:51	Warning: 	File has moved from https://relearning.tech/?p=148 to https://relearning.tech/contact/
+21:52:56	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://relearning.tech/?p=506
+21:52:57	Warning: 	Moved Permanently for https://relearning.tech/?p=506
+21:52:57	Warning: 	File has moved from https://relearning.tech/?p=506 to https://relearning.tech/donate/
+
+HTTrack Website Copier/3.49-6 mirror complete in 6 minutes 9 seconds : 257 links scanned, 266 files written (15457714 bytes overall) [13865029 bytes received at 37574 bytes/sec], 2242780 bytes transferred using HTTP compression in 77 files, ratio 20%, 1.4 requests per connection
+(2 errors, 38 warnings, 0 messages)
